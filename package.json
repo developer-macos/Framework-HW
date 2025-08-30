@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chart.js": "^4.5.0",
+    "pnotify": "^5.2.0"
+  }
+}
